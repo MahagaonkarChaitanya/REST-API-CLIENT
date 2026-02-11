@@ -23,3 +23,5 @@ Finally, the extracted data is displayed in a clean and formatted console output
 
 # OUTPUT OF THE TASK
 
+<img width="1509" height="850" alt="Image" src="https://github.com/user-attachments/assets/16311a99-9c51-47b1-833a-714011773987" />
+
